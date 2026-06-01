@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Wenxin Zhang"
   pronouns         : "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "He is pursuing PhD degree in UCAS."
   location         : "Beijing, China"
   employer         : "University of the Chinese Academy of Sciences"
   uri              : # URL
-  email            : "zwxzhang12@163.com\\zhangwenxin23@mails.ucas.ac.cn" 
+  email            : "zwxzhang12@163.com" 
 
   # Academic websites
   academia         : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0000-8916-6944"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
